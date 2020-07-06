@@ -5,5 +5,5 @@
     }
 </style>
 <div class="main">
-    <h1>Lotaramon</h1>
+    <h1>Lotaría Pokémon</h1>
 </div>
